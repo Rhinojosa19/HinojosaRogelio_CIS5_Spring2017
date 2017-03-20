@@ -5,3 +5,5 @@ git add . = adds any untracked files to be committed
 git commit -m “signed off” = to commit locally
 
 git push = to push your changes to GitHub.com
+
+git pull = update from github
